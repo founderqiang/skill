@@ -458,3 +458,30 @@ MIT License
 - [ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)
 
 <!-- AUTO-SYNC-SKILLS-END -->
+
+<!-- clawhub-sync-start -->
+## ClawHub (Skill Registry)
+
+Latest commit: `f4ddccb`
+
+### Packages
+
+| Package | Description |
+| ------- | ----------- |
+| `clawhub` | CLI tool for managing skills |
+| `schema` | Shared API types and routes |
+
+### CLI Commands
+
+## CLI
+
+Common CLI flows:
+
+- Auth: `clawhub login`, `clawhub whoami`
+- Discover: `clawhub search ...`, `clawhub explore`
+- Browse unified catalog (skills + plugins): `clawhub package explore`, `clawhub package inspect <name>`
+- Manage local installs: `clawhub install <slug>`, `clawhub uninstall <slug>`, `clawhub list`, `clawhub update --all`
+- Inspect without installing: `clawhub inspect <slug>`
+- Publish/sync skills: `clawhub skill publish <path>`, `clawhub sync`
+- Publish plugins: `clawhub pac
+<!-- clawhub-sync-end -->
