@@ -475,13 +475,13 @@ MIT License
 <!-- clawhub-sync-start -->
 ## ClawHub (Skill Registry)
 
-Latest commit: `4496acf`
+Latest commit: `3e66b50`
 
 ### Packages
 
 | Package | Description |
 | ------- | ----------- |
-| `clawhub-mod` | clawhub-mod package |
+| `clawhub-admin` | clawhub-admin package |
 | `clawhub` | CLI tool for managing skills |
 | `schema` | Shared API types and routes |
 
