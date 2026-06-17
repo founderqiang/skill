@@ -1,5 +1,12 @@
 # 🎯 技能商店 - Skill Store
 
+[![Stars](https://img.shields.io/github/stars/anbeime/skill?style=social)](https://github.com/anbeime/skill/stargazers)
+[![Forks](https://img.shields.io/github/forks/anbeime/skill?style=social)](https://github.com/anbeime/skill/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/anbeime/skill)](https://github.com/anbeime/skill/commits/main)
+[![Issues](https://img.shields.io/github/issues/anbeime/skill)](https://github.com/anbeime/skill/issues)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![Auto Sync](https://img.shields.io/badge/auto--sync-24h-brightgreen)](https://github.com/anbeime/skill/blob/main/.github/workflows)
+
 收录最全、更新最快的AI Agent技能库，涵盖**文档处理、内容创作、编程开发、机器学习、自动化工作流**等多个领域的精选技能包。
 
 [![官方技能](https://img.shields.io/badge/官方技能-182-blue?style=flat-square)](https://github.com/anbeime/skill)
@@ -277,6 +284,24 @@ ls docs/
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+## 🤝 贡献你的技能
+
+发现了好用的 AI Agent 技能？欢迎提交！
+
+- **快速提交**：[创建 Issue 提交技能](https://github.com/anbeime/skill/issues/new?template=submit-skill.yml)
+- **PR 直接提交**：fork 仓库后在 `skills/` 目录添加你的技能，提 PR
+- **想加入维护团队**：邮件 anbeime@coze.email 或开 Discussion
+
+### 贡献者
+
+感谢所有为这个项目做出贡献的伙伴：
+
+[![Contributors](https://contrib.rocks/image?repo=anbeime/skill)](https://github.com/anbeime/skill/graphs/contributors)
+
+## 🌐 兄弟项目
+
+- [TOPGO SOLAR 光伏储能地图站](https://solar.miyucaicai.cn) - 同主域兄弟站，全国 990+ 光伏储能项目实时数据库
 
 ## 📄 许可证
 
